@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este é o site oficial do projeto New Start Unico. O objetivo deste projeto é apresentar o que aprendemos durante os nossoas meses de curso.
+Este é o site oficial do projeto New Start Unico. O objetivo deste projeto é apresentar o que aprendemos durante os nossos meses de curso.
 
 ## Tecnologias Utilizadas
 
